@@ -4,3 +4,4 @@ vegafusion
 vegafusion-jupyter[embed]
 vega-datasets
 altair_data_server
+jupyter-server-proxy
