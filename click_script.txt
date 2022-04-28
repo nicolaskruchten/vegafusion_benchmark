@@ -1,0 +1,37 @@
+# focus in the right window, not on any chart
+c:90,730 
+
+# wait for the window to settle
+w:500 
+
+# start drag in chart 1
+dd:200,730
+
+# stop drag a bit to the right
+du:+80,+0 
+
+# wait for window to settle
+w:500 
+
+
+# start drag in chart 1
+#dd:+5,+0
+
+# stop drag a bit to the right
+#du:-85,+0 
+
+# start drag in chart 2
+dd:200,430 
+
+# stop drag a bit to the right
+du:+80,+0 
+
+
+# wait for window to settle
+w:2000 
+
+# reset chart 1
+c:195,730
+
+# reset chart 2
+c:195,430
